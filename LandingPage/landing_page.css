@@ -454,7 +454,7 @@ background-color: rgb(246, 242, 242);
     .second-container {
 
     
-        height: 55vh !important;
+        height: 65vh !important;
       
     
     }
@@ -462,7 +462,7 @@ background-color: rgb(246, 242, 242);
     .land-container {
         
         margin-top: 130px !important;
-        height: 50vh !important;
+        height: 60vh !important;
     }
 
 }
